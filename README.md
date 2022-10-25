@@ -1,3 +1,3 @@
 Projeto "Meu primeiro portal"
 
-Foi incluído mais duas seções no projeto “Meu portal de noticiais”, contendo noticiais diferentes, cores e imagens diferentes, seguindo as duas seções criada com o professor como exemplo. 
+Foi incluído mais duas seções no projeto “Meu portal de notícias”, contendo notícias diferentes, cores e imagens, seguindo as duas seções criadas com o professor como exemplo. 
